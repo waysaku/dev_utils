@@ -1,0 +1,14 @@
+{
+  "name": "issue_presigned_url",
+  "version": "1.0.0",
+  "description": "``` npm install node index.js ```",
+  "main": "issue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.663.0"
+  }
+}
